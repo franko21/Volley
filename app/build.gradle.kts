@@ -34,6 +34,7 @@ android {
 dependencies {
 
     implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation ("org.apache.httpcomponents:httpclient-android:4.3.5")
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.mcxiaoke.volley:library:1.0.19")
